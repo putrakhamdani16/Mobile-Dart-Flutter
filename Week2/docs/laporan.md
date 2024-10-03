@@ -5,14 +5,19 @@
 
 1. Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut ini agar mendapatkan keluar  (output) sesuai yang diminta!  
 <br>
+
 ![alt text](soal1.png)
+
 <br>
-2. Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter ? Jelaskan<br>
-``` Karena dart merupakan bahasa dasar dari framework flutter atau flutter dibangun diatas bahasa dart itu sendiri. Semua aplikasi yang dibangun menggunakan flutter ditulis dengan bahasa dart, jadi jika kita tidak memahami bahasa dart maka kita akan kesulitan untuk menggunakan framework flutter``` 
+
+3. Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter ? Jelaskan<br>
+
+Karena dart merupakan bahasa dasar dari framework flutter atau flutter dibangun diatas bahasa dart itu sendiri. Semua aplikasi yang dibangun menggunakan flutter ditulis dengan bahasa dart, jadi jika kita tidak memahami bahasa dart maka kita akan kesulitan untuk menggunakan framework flutter
+
 <br>
 
 3. Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gunakan untuk membantu proses pengembangan aplikasi mobile menggunakan framework Flutter. <br>
-```
+
 Bahasa dart merupakan bahasa tingkat tinggi yang digunakan oleh flutter, atau dengan kata lain flutter berdiri diatas bahasa dart.
 
 Dart diluncurkan pada tahun 2011 dan terus berkembang hingga saat ini. Dart awalnya dikembangkan untuk pengembangan web sebagai penerus JavaScript, dengan tujuan mengatasi kekurangan JavaScript, seperti ketahanan yang rendah. Kini, Dart lebih fokus pada pengembangan mobile, terutama dengan framework Flutter. Dart menawarkan performa optimal dan alat modern yang stabil untuk proyek berskala besar, didukung oleh plugin IDE yang kuat. Dirancang agar fleksibel dan tangguh, Dart menggabungkan type annotations yang opsional serta fitur OOP, menciptakan keseimbangan antara fleksibilitas dan kekuatan bahasa pemrograman.
@@ -30,4 +35,3 @@ Dart dirancang untuk oop juga dan seperti bahasa lainnya dart juga memiliki oper
 
 contoh function pada dart
 Function `main` di Dart adalah titik awal eksekusi program, ditandai dengan `void` yang menunjukkan tidak ada data yang dikembalikan. Nama `main` wajib ada agar Dart VM tahu di mana memulai. Tanda kurung `( )` menunjukkan bahwa `main` tidak menerima data, dan kurung kurawal `{ }` digunakan untuk membungkus blok kode function.
-```
